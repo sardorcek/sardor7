@@ -1,226 +1,258 @@
-body{
-  background-color: silver!important;
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-.card1{
-  .btn1{
-   background: #6F2CFF;
+body{
+  background-color: #E5E5E5!important;
+ overflow-x: hidden;
+}
+.cont1{
+  height: 500px!important;
+  background-color: white;
+  .col-6{
+    margin-top: 100px;
+    margin-left: 50px;
+
+  }
+  .bnt{
+    background-color:#F26522 ;
     color: white;
-    border-radius: 20px;
+    border-radius: 50px;
+  }
+  .nav1{
+    border: 1px solid silver;
+    border-radius: 80px;
+    margin-left: 30px;
+  }
+  .img1{
+    position: absolute;
+    margin-left: 584px!important;
+  }
+  .nav-item{
+    margin-left: 20px;
+    a:hover{
+      border-bottom: 1px solid #F26522;
+    }
+  }
+  .carousel-inner img{
+    width: 100%;
+    height: 100%;
+  }
+  .carousel-indicators{
+    top: 50px;
+    display: flex;
+    flex-direction: column;
+  }
+  .carousel-indicators li{
+    background-color: black;
+    margin-left: 250px;
+  }
+}
+.cont2{
+  background-color: white!important;
+  .cont2rectangle{
+    position: absolute;
+    top: 650px!important;
+    margin-left: 528px;
+  }
+  .img3 {
+    width: 550px;
+    height: 450px;
+    margin-top: -100px;
+    margin-left: 200px;
+  }
+  .cl{
+    width: 20px!important;
+    height: 30px!important;
+    margin-top: 6px;
   }
 }
 .sec1{
-  width: 1110px;
-  height: 650px;
-  background-image: url("img/Rectangle.jpg");
+  width: 1140px;
+  height: 750px;
   margin: 0 auto;
-  .col1{
+  background-image: url("img/NUB back.png");
+  .nma{
+    margin-top: 55px!important;
+  }
+  .col3{
+    width: 300px;
+    height: 215px!important;
+    border-radius: 5px;
+    margin-top: 100px!important;
+    margin-left: 30px;
+    .uuuuuuuuuupapo{
+      position: absolute;
+      top: -30px;
+      right: 90px;
+    }
+    .ubu{
+      margin-top: 70px!important;
+    }
+  }
+  .col33{
+    width: 300px;
+    height: 215px!important;
+    border-radius: 5px;
+    margin-top: 100px!important;
+    margin-left: 120px;
+  }
+  .uuuuuuuuuupapo{
+    position: absolute;
+    top: -30px;
+    right: 90px;
+  }
+  .ubu{
+    margin-top: 70px!important;
+  }
+  .s{
+    margin-left: 280px!important;
+  }
+}
+.cont3{
+  background-color: white;
+  .cont3rectangle{
+    position: absolute;
+    margin-left: 746px;
+  }
+  .f{
+    margin-top: 60px!important;
+  }
+  .cont3rectangle2{
+    position: absolute;
+    top: 2900px;
+    margin-left: -63px;
+  }
+  .C111{
+    background-image: url("img1/Аннотация 2023-05-29 164011.png");
+    img{
+      width: 100%;
+      height: 100%;
+      margin-top: 20px;
+    }
+  }
+  .col8{
+    position: absolute;
+    margin-left: 230px;
+    margin-top: 245px;
+  }
+  .ses{
+    height: 465px!important;
+    margin-top: 350px;
+  }
+  .col123{
+    width: 150px;
+    height: 30px;
+  }
+  .imge{
+    margin-left: 180px!important;
+  }
+}
+.cont4{
+  height: 400px;
+  .col77{
+    position: absolute!important;
+    margin-left: -20px;
+    margin-top: 50px;
+  }
+  .aaa{
+    margin-top: 125px;
+  }
+}
+.cont5{
+  padding: 1px;
+  .oo{
     margin-top: 100px!important;
   }
-  .block{
-   width: 350px;
-    height: 50px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+  .ml5{
+    margin-left: 95px;
   }
-  .input{
-    border-radius: 30px;
-    padding: 10px 50px;
-    outline: none;
-    border: 1px solid #6F2CFF;
-
+  .cont5rectangle{
+    position: absolute;
+    margin-left: -20px;
+    margin-top: 110px;
   }
-  .btn-1 {
-    width: 700px;
-    height: 47px;
-    margin-left: -70px;
-    display: block;
-    border-bottom-right-radius: 20px;
-    border-top-right-radius: 20px;
-    background-color: #6F2CFF;
-    color: white;
-    border: none;
-    justify-content: center;
-    align-items: center;
-    font-size: 15px;
+  .mauto{
+    margin-top: 270px!important;
   }
-}
-.sec2{
-  width: 1110px;
-  height: 900px;
-  background-color: white;
-  margin: 0 auto;
-  .col55{
-    margin-top:150px ;
+  .pastga{
+    margin-top: 110px;
   }
-  .img1{
-    margin-left: 400px;
+  .cont5rectangle3{
+    position: absolute;
+    margin-left: 830px;
   }
-  .ml2{
-    margin-left: 40px!important;
-    margin-top: 30px;
-  }
-  .btn2{
-    border-bottom: 2px solid blue;
-    border-radius: 0px;
-    margin-left: 450px;
-  }
- .btn3{
-   background: #6F2CFF;
-   color: white;
-   border-radius: 20px;
- }
-  .btn4{
-    border-bottom: 2px solid blue;
-    border-radius: 0px;
-  }
-  .bj{
-    border-left: 2px solid silver;
-  }
-}
-.sec3{
-  width: 1110px;
-  height: 400px;
-  background-color: white;
-  margin: 0 auto;
-  .col33{
-    margin: 0 auto!important;
-    margin-top: 20px!important;
-  }
-
-}
-.main1{
-  width: 1110px;
-  height:950px;
-  margin: 0 auto;
-  background-color: #F5F5F5;
-  .col44{
-    margin: 0 auto;
-    margin-top: 80px;
-  }
-  .col45{
-    margin: 0 auto;
-    margin-top: 50px!important;
-  }
-  .btn2{
-    width: 170px!important;
-    background: #6F2CFF;
-    color: white;
-    border-radius: 20px;
-  }
-  .btn22{
-    width: 170px!important;
-    background: white;
-    color: #6F2CFF;
-    border-radius: 20px;
-  }
-}
-.main2{
-  width: 1110px;
-  height: 780px;
-  margin: 0 auto;
-  background-color: white;
-  .f1{
-    margin: 0 auto;
-    margin-top: 80px!important;
-  }
-  .figma{
-    margin: 0 auto!important;
-  }
-  .figma1{
-    text-align: center!important;
-    margin: 0 auto;
-    margin-top: 70px;
-  }
-}
-.sec4{
-  width: 1110px;
-  height: 700px;
-  margin: 0 auto;
-  background-color: #F5F5F5;
-.col10{
-  margin-top: 80px!important;
-}
-}
-.sec5{
-  width: 1110px;
-  height: 950px;
-  margin: 0 auto;
-  background-color: white;
-  .sur{
-    margin-left: 20px;
-  }
-  .sur2{
-    margin-left: 70px;
-  }
-}
-.sec6{
-  width: 1110px;
-  height: 570px;
-  background-color: #F5F5F5;
-  margin: 0 auto;
-  .col-4{
+  .pading{
     margin-top: 150px;
   }
-  .col-6{
-    margin-left: 80px;
-  }
-  .btn3{
-    background: #6F2CFF;
-    color: white;
-    border-radius: 20px;
-  }
-}
-.sec7{
-  width: 1110px;
-  height: 300px;
-  margin: 0 auto;
-  background-image: url("sec/Rectangle (10).png");
-  background-repeat: no-repeat;
-  background-size: cover;
-  .col-4{
-    margin-top: 90px!important;
-  }
-  .block{
-    width: 350px;
-    height: 50px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-top: 30px!important;
-  }
-  .input{
-    border-radius: 30px;
-    padding: 10px 50px;
-    outline: none;
-    border: 1px solid #6F2CFF;
 
+
+  .div1{
+    width: 300px!important;
+    height: 300px!important;
+    background: #fffef7 !important;
+    transition: 1s;
   }
-  .btn-1 {
-    width: 700px;
-    height: 46px;
-    margin-left: -70px;
-    display: block;
-    border-bottom-right-radius: 20px;
-    border-top-right-radius: 20px;
-    background-color: #6F2CFF;
-    color: white;
-    border: none;
-    justify-content: center;
-    align-items: center;
-    font-size: 15px;
+  .img1{
+    width: 170px!important;
+    height: 170px!important;
+    border-radius: 50%!important;
+    margin-left: 60px;
+    margin-top: -80px!important;
+    object-fit: cover;
   }
-}
-.main3{
-  width: 1110px;
-  height: 330px;
-  margin: 0 auto;
-  background-color: white;
+
+  .h2{
+    text-align: center!important;
+    margin-top: 60px!important;
+  }
+  .div1:hover{
+    box-shadow: 1px -1px 25px 13px rgb(233, 231, 231);
+  }
+  .sardor{
+    width: 1140px!important;
+    margin-top: 100px;
+    padding: 65px!important;
+    margin-left: 40px;
+    h4{
+      color: #F26522;
+      text-align: center;
+      margin-top: 15px;
+      font-size: 15px;
+    }
+  }
+  .carousel-indicators>li{
+      width: 15px !important;
+      height: 15px!important;
+      background-color: #000000 !important;
+      border-radius: 50% !important;
+  }
+
+
 }
 footer{
-  width: 1110px;
-  height: 520px;
-  background-color: #20003C;
+  width: 1140px;
+  height: 470px;
   margin: 0 auto;
-  padding: 20px 20px 20px 20px!important;
+  background-color: #131A22;
+  .col21{
+    margin-top: 50px!important;
+  }
+  .elip2{
+    margin-left: 120px;
+    margin-top: 50px;
+  }
+  .nav2{
+    width: 100px;
+    height: 25px;
+    border: 1px solid silver;
+    margin-top: 15px;
+    border-radius: 50px;
+    margin-left: 80px!important;
+  }
+  .mle{
+    margin-top: 5px;
+    margin-left: 70px;
+  }
 }
