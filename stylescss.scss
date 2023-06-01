@@ -1,0 +1,226 @@
+body{
+  background-color: silver!important;
+}
+.card1{
+  .btn1{
+   background: #6F2CFF;
+    color: white;
+    border-radius: 20px;
+  }
+}
+.sec1{
+  width: 1110px;
+  height: 650px;
+  background-image: url("img/Rectangle.jpg");
+  margin: 0 auto;
+  .col1{
+    margin-top: 100px!important;
+  }
+  .block{
+   width: 350px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .input{
+    border-radius: 30px;
+    padding: 10px 50px;
+    outline: none;
+    border: 1px solid #6F2CFF;
+
+  }
+  .btn-1 {
+    width: 700px;
+    height: 47px;
+    margin-left: -70px;
+    display: block;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: #6F2CFF;
+    color: white;
+    border: none;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+  }
+}
+.sec2{
+  width: 1110px;
+  height: 900px;
+  background-color: white;
+  margin: 0 auto;
+  .col55{
+    margin-top:150px ;
+  }
+  .img1{
+    margin-left: 400px;
+  }
+  .ml2{
+    margin-left: 40px!important;
+    margin-top: 30px;
+  }
+  .btn2{
+    border-bottom: 2px solid blue;
+    border-radius: 0px;
+    margin-left: 450px;
+  }
+ .btn3{
+   background: #6F2CFF;
+   color: white;
+   border-radius: 20px;
+ }
+  .btn4{
+    border-bottom: 2px solid blue;
+    border-radius: 0px;
+  }
+  .bj{
+    border-left: 2px solid silver;
+  }
+}
+.sec3{
+  width: 1110px;
+  height: 400px;
+  background-color: white;
+  margin: 0 auto;
+  .col33{
+    margin: 0 auto!important;
+    margin-top: 20px!important;
+  }
+
+}
+.main1{
+  width: 1110px;
+  height:950px;
+  margin: 0 auto;
+  background-color: #F5F5F5;
+  .col44{
+    margin: 0 auto;
+    margin-top: 80px;
+  }
+  .col45{
+    margin: 0 auto;
+    margin-top: 50px!important;
+  }
+  .btn2{
+    width: 170px!important;
+    background: #6F2CFF;
+    color: white;
+    border-radius: 20px;
+  }
+  .btn22{
+    width: 170px!important;
+    background: white;
+    color: #6F2CFF;
+    border-radius: 20px;
+  }
+}
+.main2{
+  width: 1110px;
+  height: 780px;
+  margin: 0 auto;
+  background-color: white;
+  .f1{
+    margin: 0 auto;
+    margin-top: 80px!important;
+  }
+  .figma{
+    margin: 0 auto!important;
+  }
+  .figma1{
+    text-align: center!important;
+    margin: 0 auto;
+    margin-top: 70px;
+  }
+}
+.sec4{
+  width: 1110px;
+  height: 700px;
+  margin: 0 auto;
+  background-color: #F5F5F5;
+.col10{
+  margin-top: 80px!important;
+}
+}
+.sec5{
+  width: 1110px;
+  height: 950px;
+  margin: 0 auto;
+  background-color: white;
+  .sur{
+    margin-left: 20px;
+  }
+  .sur2{
+    margin-left: 70px;
+  }
+}
+.sec6{
+  width: 1110px;
+  height: 570px;
+  background-color: #F5F5F5;
+  margin: 0 auto;
+  .col-4{
+    margin-top: 150px;
+  }
+  .col-6{
+    margin-left: 80px;
+  }
+  .btn3{
+    background: #6F2CFF;
+    color: white;
+    border-radius: 20px;
+  }
+}
+.sec7{
+  width: 1110px;
+  height: 300px;
+  margin: 0 auto;
+  background-image: url("sec/Rectangle (10).png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  .col-4{
+    margin-top: 90px!important;
+  }
+  .block{
+    width: 350px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 30px!important;
+  }
+  .input{
+    border-radius: 30px;
+    padding: 10px 50px;
+    outline: none;
+    border: 1px solid #6F2CFF;
+
+  }
+  .btn-1 {
+    width: 700px;
+    height: 46px;
+    margin-left: -70px;
+    display: block;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: #6F2CFF;
+    color: white;
+    border: none;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+  }
+}
+.main3{
+  width: 1110px;
+  height: 330px;
+  margin: 0 auto;
+  background-color: white;
+}
+footer{
+  width: 1110px;
+  height: 520px;
+  background-color: #20003C;
+  margin: 0 auto;
+  padding: 20px 20px 20px 20px!important;
+}
